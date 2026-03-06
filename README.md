@@ -9,23 +9,30 @@
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Ashab+Ibnu+Abdul+Aziz;👨‍🚀+Informatics+Student+(231240001399);🌌+Web+%7C+Mobile+%7C+Laravel+%7C+Flutter;🪐+Exploring+Apps+Dev+%26+Data+Mining;🛡️+Error+Handling+%26+Robust+Code+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Ashab+Ibnu+Abdul+Aziz;👨‍🚀+Informatics+Student+(231240001399);🌌+Web+%7C+Mobile+%7C+Laravel+%7C+Flutter;🪐+Exploring+Apps+Dev+%26+Data+Mining" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
+<!-- Particle Animation Divider 1 -->
+<div align="center">
+  <img src="particles.svg" width="100%" alt="particles animation" />
+</div>
+
+<br>
+
 <!-- Tentang Saya -->
-<table align="center" width="100%">
+<table align="center" width="100%" style="border: none;">
   <tr>
     <td width="60%">
-      <h2 align="center">👨‍🚀 Tentang Saya</h2>
-      <p align="center">Mahasiswa Informatika yang hobi ngulik web dan mobile app. Di sini gravitasi gak berlaku, jadi mohon maklum kalau kodenya melayang-layang!</p>
+      <h2 align="center">👨‍🚀 Halo Semuanya!</h2>
+      <p align="center">Saya seorang mahasiswa Informatika yang suka ngulik Web dan Mobile App. Selamat datang di profil GitHub saya! 🚀</p>
       <ul>
-        <li>🛠️ <b>Lagi Fokus</b>: Web Development & Mobile Apps.</li>
-        <li>🚀 <b>Andalan</b>: Laravel & Flutter.</li>
-        <li>💡 <b>Lagi Belajar</b>: API Mining & Modern Web Apps.</li>
-        <li>☕ <b>Status</b>: Lagi nyari bug atau sekadar ngopi sambil ngoding.</li>
+        <li>🛠️ <b>Fokus Utama</b>: Web & Mobile App Development.</li>
+        <li>� <b>Tech Stack Andalan</b>: Laravel, Flutter, NextJS & Node.js.</li>
+        <li>💡 <b>Saat Ini Sedang Belajar</b>: Modern Web Apps & Data Mining.</li>
+        <li>☕ <b>Aktivitas</b>: Nulis kode, push ke GitHub, dan minum kopi.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -36,63 +43,31 @@
 
 <br>
 
-<!-- Tools Harian -->
+<!-- Particle Animation Divider 2 -->
 <div align="center">
-  <h2>🛰️ Tools Harian Saya</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,dart,flutter,mysql,mongodb,supabase,git,vscode,github&theme=dark" alt="Core Tech"/>
+  <img src="particles.svg" width="100%" alt="particles animation" />
 </div>
 
 <br>
 
-<!-- Database & Backend -->
+<!-- Tech Stack -->
 <div align="center">
-  <h3>🗄️ Database & Backend (Yang lagi asik diulik)</h3>
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br>
-        🦕 <i>Backend instan rasa open source</i>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-        🍃 <i>Parkir data tanpa ribet skema</i>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
-        🟢 <i>Server kesayangan anak JS</i>
-      </td>
-    </tr>
-  </table>
+  <h2>�️ Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,dart,flutter,mysql,mongodb,supabase,git,vscode,github,nextjs,express,nodejs&theme=dark" alt="Core Tech"/>
 </div>
 
 <br>
 
-<!-- Modern Web Stack -->
+<!-- Particle Animation Divider 3 -->
 <div align="center">
-  <h3>⚡ Biar Sat-Set (Modern Web Stack)</h3>
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br>
-        ▲ <b>Gak NextJS Gak Asik</b> 🚀
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-        🔷 <b>Biar gak kena mental liat error</b> 🔷
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br>
-        ⚡ <b>Backend simpel tapi ngebut</b> ⚡
-      </td>
-    </tr>
-  </table>
+  <img src="particles.svg" width="100%" alt="particles animation" />
 </div>
 
 <br>
 
 <!-- Cosmic Achievements -->
 <div align="center">
-  <h2>🏆 Cosmic Achievements</h2>
+  <h2>🏆 GitHub Activity</h2>
   
   <!-- GitHub Trophies -->
   <a href="https://github-profile-trophy.vercel.app/?username=Abibsa">
@@ -104,7 +79,7 @@
   <br><br>
   
   <!-- GitHub Stats & Languages -->
-  <table align="center">
+  <table align="center" style="border: none;">
     <tr>
       <td align="center" style="border: none;">
         <a href="https://github-readme-stats.vercel.app/api?username=Abibsa">
@@ -146,30 +121,12 @@
 
 <br>
 
-<!-- Cosmic Error Handling -->
+<!-- Particle Animation Divider 4 -->
 <div align="center">
-  <h2>🛡️ Cosmic Error Handling (Robustness)</h2>
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Global%20Exception-Handling-00FFFF?style=for-the-badge&logo=securityscorecard&logoColor=white" /><br>
-        <i>Biar aplikasi gak mental pas kena bug.</i>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Graceful%20Degradation-Active-FFD700?style=for-the-badge&logo=shield&logoColor=white" /><br>
-        <i>Server boleh lelah, tapi user jangan gelisah.</i>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <p align="center">
-    Saya selalu memastikan setiap baris kode memiliki <b>Safety Net</b> yang kuat menggunakan <i>Try-Catch Blocks</i>, <i>Custom Exceptions</i>, dan <i>Global Middleware</i> untuk menjaga pengalaman pengguna tetap lancar (sat-set) tanpa hambatan teknis.
-  </p>
+  <img src="particles.svg" width="100%" alt="particles animation" />
 </div>
 
 <br>
-
-
 
 <!-- Footer -->
 <div align="center">
