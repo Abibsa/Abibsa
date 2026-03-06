@@ -1,0 +1,84 @@
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+<style>
+.particle { fill: #00FFFF; opacity: 0; }
+@keyframes move1 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(16px, -13px); opacity: 0; } }
+@keyframes move2 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-18px, -6px); opacity: 0; } }
+@keyframes move3 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-39px, -13px); opacity: 0; } }
+@keyframes move4 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-34px, -8px); opacity: 0; } }
+@keyframes move5 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-21px, -5px); opacity: 0; } }
+@keyframes move6 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-34px, -8px); opacity: 0; } }
+@keyframes move7 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-10px, -16px); opacity: 0; } }
+@keyframes move8 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(22px, -5px); opacity: 0; } }
+@keyframes move9 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-21px, -7px); opacity: 0; } }
+@keyframes move10 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(9px, -19px); opacity: 0; } }
+@keyframes move11 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-34px, -7px); opacity: 0; } }
+@keyframes move12 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(0px, -20px); opacity: 0; } }
+@keyframes move13 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-40px, -6px); opacity: 0; } }
+@keyframes move14 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(22px, -8px); opacity: 0; } }
+@keyframes move15 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(25px, -20px); opacity: 0; } }
+@keyframes move16 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(33px, -5px); opacity: 0; } }
+@keyframes move17 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-26px, -18px); opacity: 0; } }
+@keyframes move18 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-1px, -15px); opacity: 0; } }
+@keyframes move19 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(24px, -17px); opacity: 0; } }
+@keyframes move20 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(15px, -20px); opacity: 0; } }
+@keyframes move21 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-27px, -5px); opacity: 0; } }
+@keyframes move22 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(27px, -13px); opacity: 0; } }
+@keyframes move23 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(39px, -20px); opacity: 0; } }
+@keyframes move24 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(33px, -16px); opacity: 0; } }
+@keyframes move25 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(15px, -15px); opacity: 0; } }
+@keyframes move26 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(2px, -19px); opacity: 0; } }
+@keyframes move27 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-9px, -8px); opacity: 0; } }
+@keyframes move28 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(21px, -9px); opacity: 0; } }
+@keyframes move29 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-40px, -18px); opacity: 0; } }
+@keyframes move30 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-10px, -9px); opacity: 0; } }
+@keyframes move31 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(39px, -14px); opacity: 0; } }
+@keyframes move32 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(32px, -15px); opacity: 0; } }
+@keyframes move33 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-15px, -13px); opacity: 0; } }
+@keyframes move34 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-31px, -15px); opacity: 0; } }
+@keyframes move35 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(13px, -20px); opacity: 0; } }
+@keyframes move36 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(3px, -7px); opacity: 0; } }
+@keyframes move37 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-31px, -9px); opacity: 0; } }
+@keyframes move38 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-38px, -15px); opacity: 0; } }
+@keyframes move39 { 0% { transform: translate(0px, 0px); opacity: 0; } 30% { opacity: 0.8; } 100% { transform: translate(-17px, -19px); opacity: 0; } }
+</style>
+<rect width="100%" height="100%" fill="#0d1117" fill-opacity="0" />
+<circle cx="17.99%" cy="81.72%" r="1.41" class="particle" style="animation: move1 7.88s 1.47s infinite linear;" />
+<circle cx="68.31%" cy="58.29%" r="0.95" class="particle" style="animation: move2 5.10s 2.45s infinite linear;" />
+<circle cx="40.31%" cy="11.94%" r="0.55" class="particle" style="animation: move3 6.29s 0.83s infinite linear;" />
+<circle cx="83.21%" cy="60.76%" r="1.46" class="particle" style="animation: move4 7.52s 4.66s infinite linear;" />
+<circle cx="42.73%" cy="60.62%" r="1.32" class="particle" style="animation: move5 7.60s 2.66s infinite linear;" />
+<circle cx="55.54%" cy="37.52%" r="1.00" class="particle" style="animation: move6 4.18s 0.68s infinite linear;" />
+<circle cx="20.25%" cy="28.29%" r="0.99" class="particle" style="animation: move7 5.00s 1.87s infinite linear;" />
+<circle cx="84.73%" cy="42.66%" r="0.96" class="particle" style="animation: move8 4.35s 2.74s infinite linear;" />
+<circle cx="27.66%" cy="94.65%" r="1.28" class="particle" style="animation: move9 4.19s 3.95s infinite linear;" />
+<circle cx="86.69%" cy="44.17%" r="1.19" class="particle" style="animation: move10 7.31s 4.69s infinite linear;" />
+<circle cx="35.72%" cy="99.36%" r="1.20" class="particle" style="animation: move11 3.61s 2.19s infinite linear;" />
+<circle cx="64.83%" cy="13.75%" r="1.43" class="particle" style="animation: move12 6.35s 2.97s infinite linear;" />
+<circle cx="61.30%" cy="59.61%" r="0.94" class="particle" style="animation: move13 3.90s 0.78s infinite linear;" />
+<circle cx="70.06%" cy="31.00%" r="0.89" class="particle" style="animation: move14 4.38s 2.32s infinite linear;" />
+<circle cx="55.46%" cy="64.88%" r="1.16" class="particle" style="animation: move15 4.89s 1.35s infinite linear;" />
+<circle cx="36.17%" cy="90.74%" r="0.79" class="particle" style="animation: move16 7.95s 3.79s infinite linear;" />
+<circle cx="48.70%" cy="61.47%" r="1.22" class="particle" style="animation: move17 7.81s 1.94s infinite linear;" />
+<circle cx="32.42%" cy="90.09%" r="1.41" class="particle" style="animation: move18 6.14s 4.52s infinite linear;" />
+<circle cx="19.53%" cy="23.15%" r="0.52" class="particle" style="animation: move19 4.99s 4.19s infinite linear;" />
+<circle cx="16.02%" cy="30.06%" r="1.05" class="particle" style="animation: move20 7.22s 3.10s infinite linear;" />
+<circle cx="7.27%" cy="91.76%" r="1.13" class="particle" style="animation: move21 5.96s 4.88s infinite linear;" />
+<circle cx="85.96%" cy="45.52%" r="0.69" class="particle" style="animation: move22 6.93s 4.63s infinite linear;" />
+<circle cx="34.79%" cy="76.84%" r="1.23" class="particle" style="animation: move23 5.44s 0.38s infinite linear;" />
+<circle cx="86.40%" cy="9.85%" r="1.27" class="particle" style="animation: move24 4.66s 0.74s infinite linear;" />
+<circle cx="22.60%" cy="75.22%" r="1.21" class="particle" style="animation: move25 5.07s 1.30s infinite linear;" />
+<circle cx="31.49%" cy="62.12%" r="1.38" class="particle" style="animation: move26 7.80s 0.52s infinite linear;" />
+<circle cx="92.41%" cy="68.14%" r="0.55" class="particle" style="animation: move27 3.79s 4.37s infinite linear;" />
+<circle cx="82.31%" cy="56.50%" r="0.89" class="particle" style="animation: move28 5.69s 2.81s infinite linear;" />
+<circle cx="75.56%" cy="30.42%" r="0.84" class="particle" style="animation: move29 5.96s 2.97s infinite linear;" />
+<circle cx="8.16%" cy="54.29%" r="1.06" class="particle" style="animation: move30 3.35s 0.16s infinite linear;" />
+<circle cx="34.24%" cy="89.34%" r="1.46" class="particle" style="animation: move31 5.80s 1.98s infinite linear;" />
+<circle cx="94.73%" cy="53.65%" r="1.32" class="particle" style="animation: move32 6.85s 1.98s infinite linear;" />
+<circle cx="54.17%" cy="75.11%" r="0.66" class="particle" style="animation: move33 7.17s 1.08s infinite linear;" />
+<circle cx="3.44%" cy="90.13%" r="0.98" class="particle" style="animation: move34 3.09s 2.89s infinite linear;" />
+<circle cx="88.21%" cy="11.71%" r="0.94" class="particle" style="animation: move35 4.23s 1.36s infinite linear;" />
+<circle cx="70.76%" cy="70.05%" r="1.32" class="particle" style="animation: move36 6.78s 4.59s infinite linear;" />
+<circle cx="6.38%" cy="37.92%" r="1.09" class="particle" style="animation: move37 6.28s 4.21s infinite linear;" />
+<circle cx="58.01%" cy="74.87%" r="0.57" class="particle" style="animation: move38 3.97s 1.51s infinite linear;" />
+<circle cx="55.45%" cy="89.37%" r="1.49" class="particle" style="animation: move39 4.48s 3.93s infinite linear;" />
+</svg>

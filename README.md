@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-  <br>
   <h1>🛸 WELCOME TO MY GALAXY 🛸</h1>
   
   <!-- Typing SVG -->
@@ -17,26 +16,26 @@
 
 <!-- Particle Animation Divider 1 -->
 <div align="center">
-  <img src="particles.svg" width="100%" alt="particles animation" />
+  <img src="particles_divider.svg" width="100%" alt="particles animation divider" />
 </div>
 
 <br>
 
-<!-- Tentang Saya -->
+<!-- Tentang Saya (About Me) -->
 <table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="60%">
-      <h2 align="center">👨‍🚀 Halo Semuanya!</h2>
-      <p align="center">Saya seorang mahasiswa Informatika yang suka ngulik Web dan Mobile App. Selamat datang di profil GitHub saya! 🚀</p>
+  <tr style="border: none; background: transparent;">
+    <td width="60%" valign="top" style="border: none;">
+      <h2>👨‍🚀 Halo Semuanya!</h2>
+      <p>Saya seorang mahasiswa Informatika yang suka ngulik Web dan Mobile App. Selamat datang di profil GitHub saya! 🚀</p>
       <ul>
         <li>🛠️ <b>Fokus Utama</b>: Web & Mobile App Development.</li>
-        <li>� <b>Tech Stack Andalan</b>: Laravel, Flutter, NextJS & Node.js.</li>
+        <li>💻 <b>Tech Stack Andalan</b>: Laravel, Flutter, NextJS & Node.js.</li>
         <li>💡 <b>Saat Ini Sedang Belajar</b>: Modern Web Apps & Data Mining.</li>
         <li>☕ <b>Aktivitas</b>: Nulis kode, push ke GitHub, dan minum kopi.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v2A3f7k4q79eW5A4o5/giphy.gif" width="200" alt="Space astronaut">
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://media.giphy.com/media/v2A3f7k4q79eW5A4o5/giphy.gif" width="180" alt="Space astronaut">
     </td>
   </tr>
 </table>
@@ -45,22 +44,22 @@
 
 <!-- Particle Animation Divider 2 -->
 <div align="center">
-  <img src="particles.svg" width="100%" alt="particles animation" />
+  <img src="particles_divider.svg" width="100%" alt="particles animation divider" />
 </div>
 
 <br>
 
 <!-- Tech Stack -->
 <div align="center">
-  <h2>�️ Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,dart,flutter,mysql,mongodb,supabase,git,vscode,github,nextjs,express,nodejs&theme=dark" alt="Core Tech"/>
+  <h2>🛰️ Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,dart,flutter,mysql,mongodb,supabase,git,vscode,github,nextjs,express,nodejs&theme=dark&perline=8" alt="Core Tech"/>
 </div>
 
 <br>
 
 <!-- Particle Animation Divider 3 -->
 <div align="center">
-  <img src="particles.svg" width="100%" alt="particles animation" />
+  <img src="particles_divider.svg" width="100%" alt="particles animation divider" />
 </div>
 
 <br>
@@ -71,18 +70,16 @@
   
   <!-- GitHub Trophies -->
   <a href="https://github-profile-trophy.vercel.app/?username=Abibsa">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abibsa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abibsa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" width="100%" />
   </a>
-  <br>
-  <i>Jika trophy tidak muncul, <a href="https://github-profile-trophy.vercel.app/?username=Abibsa">klik di sini</a>.</i>
   
   <br><br>
   
   <!-- GitHub Stats & Languages -->
   <table align="center" style="border: none;">
-    <tr>
+    <tr style="border: none; background: transparent;">
       <td align="center" style="border: none;">
-        <a href="https://github-readme-stats.vercel.app/api?username=Abibsa">
+        <a href="https://github.readme-stats.vercel.app/api?username=Abibsa">
           <img src="https://github-readme-stats.vercel.app/api?username=Abibsa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
         </a>
       </td>
@@ -92,7 +89,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <tr style="border: none; background: transparent;">
       <td colspan="2" align="center" style="border: none;">
         <a href="https://streak-stats.demolab.com/?user=Abibsa">
           <img src="https://streak-stats.demolab.com/?user=Abibsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
@@ -100,9 +97,6 @@
       </td>
     </tr>
   </table>
-  
-  <br>
-  <i>Jika statistik tidak muncul, <a href="https://github-readme-stats.vercel.app/api?username=Abibsa">klik di sini untuk stats</a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abibsa">klik di sini untuk bahasa</a> | <a href="https://streak-stats.demolab.com/?user=Abibsa">streak stats</a>.</i>
 </div>
 
 <br>
@@ -110,20 +104,16 @@
 <!-- Activity Graph -->
 <div align="center">
   <h2>📡 Radar Activity Sensor</h2>
-  <div>
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Abibsa">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abibsa&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-    </a>
-    <br>
-    <i>Jika grafik tidak muncul, <a href="https://github-readme-activity-graph.vercel.app/graph?username=Abibsa">lihat di sini</a>.</i>
-  </div>
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Abibsa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abibsa&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="900" />
+  </a>
 </div>
 
 <br>
 
 <!-- Particle Animation Divider 4 -->
 <div align="center">
-  <img src="particles.svg" width="100%" alt="particles animation" />
+  <img src="particles_divider.svg" width="100%" alt="particles animation divider" />
 </div>
 
 <br>
