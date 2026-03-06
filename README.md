@@ -117,10 +117,17 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center" style="border: none;">
+        <a href="https://streak-stats.demolab.com/?user=Abibsa">
+          <img src="https://streak-stats.demolab.com/?user=Abibsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+        </a>
+      </td>
+    </tr>
   </table>
   
   <br>
-  <i>Jika statistik tidak muncul, <a href="https://github-readme-stats.vercel.app/api?username=Abibsa">klik di sini untuk stats</a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abibsa">klik di sini untuk bahasa</a>.</i>
+  <i>Jika statistik tidak muncul, <a href="https://github-readme-stats.vercel.app/api?username=Abibsa">klik di sini untuk stats</a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abibsa">klik di sini untuk bahasa</a> | <a href="https://streak-stats.demolab.com/?user=Abibsa">streak stats</a>.</i>
 </div>
 
 <br>
